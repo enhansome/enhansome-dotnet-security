@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T23:20:23Z",
             "owner": "microsoft",
             "repo": "DevSkim",
-            "stars": 1002
+            "stars": 1003
           }
         },
         {
@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:31:01Z",
+            "last_commit": "2026-08-16T09:33:38Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5638
+            "stars": 5640
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:19:39.615Z",
+    "last_updated": "2026-08-16T14:20:04.478Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
     "enhanced_repository": "enhansome/enhansome-dotnet-security",
