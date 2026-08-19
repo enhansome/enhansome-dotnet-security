@@ -1,309 +1,329 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AspNetCoreRateLimit",
-          "description": "Package that will let you set rate limits for your .NET Core Api.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-07-26T11:58:58Z",
-            "owner": "stefanprodan",
-            "repo": "AspNetCoreRateLimit",
-            "stars": 3173
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AspNetCoreRateLimit",
+              "description": "Package that will let you set rate limits for your .NET Core Api.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63812838,
+                "language": "C#",
+                "last_commit": "2024-07-26T11:58:58Z",
+                "owner": "stefanprodan",
+                "repo": "AspNetCoreRateLimit",
+                "stars": 3173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JWT .NET",
+              "description": "Jwt.Net, a JWT (JSON Web Token) implementation for .NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1921154,
+                "language": "C#",
+                "last_commit": "2026-08-12T01:29:57Z",
+                "owner": "jwt-dotnet",
+                "repo": "jwt",
+                "stars": 2195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HtmlSanitizer",
+              "description": "Cleans HTML to avoid XSS attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10942116,
+                "language": "C#",
+                "last_commit": "2026-08-18T15:43:25Z",
+                "owner": "mganss",
+                "repo": "HtmlSanitizer",
+                "stars": 1707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetEscapades.AspNetCore.SecurityHeaders",
+              "description": "Small package to allow adding security headers to ASP.NET Core websites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59352868,
+                "language": "C#",
+                "last_commit": "2026-07-22T20:45:15Z",
+                "owner": "andrewlock",
+                "repo": "NetEscapades.AspNetCore.SecurityHeaders",
+                "stars": 855
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NWebsec",
+              "description": "Security libraries for ASP.NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29354498,
+                "language": "C#",
+                "last_commit": "2023-03-03T06:09:18Z",
+                "owner": "NWebsec",
+                "repo": "NWebsec",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AspNetSaml",
+              "description": "SAML client library, allows adding SAML single-sign-on to your ASP.NET app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75106013,
+                "language": "C#",
+                "last_commit": "2026-07-25T10:01:57Z",
+                "owner": "jitbit",
+                "repo": "AspNetSaml",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET Core Security Headers",
+              "description": "Middleware for adding security headers to an ASP.NET Core application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79739234,
+                "language": "C#",
+                "last_commit": "2025-03-27T15:19:33Z",
+                "owner": "juunas11",
+                "repo": "aspnetcore-security-headers",
+                "stars": 276
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         },
         {
-          "node_type": "item",
-          "title": "JWT .NET",
-          "description": "Jwt.Net, a JWT (JSON Web Token) implementation for .NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-12T01:29:57Z",
-            "owner": "jwt-dotnet",
-            "repo": "jwt",
-            "stars": 2194
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DevSkim",
+              "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64857273,
+                "language": "C#",
+                "last_commit": "2026-08-16T15:47:08Z",
+                "owner": "microsoft",
+                "repo": "DevSkim",
+                "stars": 1002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Security Code Scan",
+              "description": "Vulnerability Patterns Detector for C# and VB.NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115854787,
+                "language": "C#",
+                "last_commit": "2024-07-08T14:28:26Z",
+                "owner": "security-code-scan",
+                "repo": "security-code-scan",
+                "stars": 975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SonarQube",
+              "description": "SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5582516,
+                "language": "C#",
+                "last_commit": "2026-08-19T00:22:31Z",
+                "owner": "SonarSource",
+                "repo": "sonar-dotnet",
+                "stars": 919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puma Scan",
+              "description": "Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71406410,
+                "language": "C#",
+                "last_commit": "2026-08-07T16:45:58Z",
+                "owner": "pumasecurity",
+                "repo": "puma-scan",
+                "stars": 447
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Code Analysis"
         },
         {
-          "node_type": "item",
-          "title": "HtmlSanitizer",
-          "description": "Cleans HTML to avoid XSS attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T09:14:31Z",
-            "owner": "mganss",
-            "repo": "HtmlSanitizer",
-            "stars": 1708
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Snyk",
+              "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45247496,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:03:45Z",
+                "owner": "snyk",
+                "repo": "cli",
+                "stars": 5641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET Security Announcements",
+              "description": "Watch this repo to receive security announcements in .NET Core",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85252569,
+                "language": null,
+                "last_commit": "2022-06-29T17:39:04Z",
+                "owner": "dotnet",
+                "repo": "announcements",
+                "stars": 1372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RetireNET",
+              "description": "CLI extension to check your project for known vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91344450,
+                "language": "C#",
+                "last_commit": "2021-11-26T12:52:30Z",
+                "owner": "RetireNet",
+                "repo": "dotnet-retire",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OWASP Dependency Check",
+              "description": "Detects publicly disclosed vulnerabilities in application dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 917205905,
+                "language": "Java",
+                "last_commit": "2025-09-27T20:17:48Z",
+                "owner": "jeremylong",
+                "repo": "DependencyCheck",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audit.NET",
+              "description": "Identify known vulnerabilities in .net NuGet dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45506227,
+                "language": "C#",
+                "last_commit": "2023-09-04T18:04:56Z",
+                "owner": "sonatype-nexus-community",
+                "repo": "audit.net",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerabilities and Security Advisories"
         },
         {
-          "node_type": "item",
-          "title": "NetEscapades.AspNetCore.SecurityHeaders",
-          "description": "Small package to allow adding security headers to ASP.NET Core websites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-22T20:45:15Z",
-            "owner": "andrewlock",
-            "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-            "stars": 855
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NWebsec",
-          "description": "Security libraries for ASP.NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-03-03T06:09:18Z",
-            "owner": "NWebsec",
-            "repo": "NWebsec",
-            "stars": 550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AspNetSaml",
-          "description": "SAML client library, allows adding SAML single-sign-on to your ASP.NET app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-25T10:01:57Z",
-            "owner": "jitbit",
-            "repo": "AspNetSaml",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ".NET Core Security Headers",
-          "description": "Middleware for adding security headers to an ASP.NET Core application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-03-27T15:19:33Z",
-            "owner": "juunas11",
-            "repo": "aspnetcore-security-headers",
-            "stars": 276
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Most Vulnerable .NET App",
+              "description": "A GitHub repository featuring an application with over 50 interactive security vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163210197,
+                "language": "HTML",
+                "last_commit": "2026-03-06T17:02:35Z",
+                "owner": "AlexGoOn",
+                "repo": "the-most-vulnerable-dotnet-app",
+                "stars": 492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebGoat.NET",
+              "description": "OWASP WebGoat.NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2610335,
+                "language": "C#",
+                "last_commit": "2023-12-16T18:02:14Z",
+                "owner": "jerryhoff",
+                "repo": "WebGoat.NET",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Damn Vulnerable Thick Client App",
+              "description": "DVTA is a Vulnerable Thick Client Application developed in C# .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64048991,
+                "language": "C#",
+                "last_commit": "2026-06-21T19:38:57Z",
+                "owner": "secvulture",
+                "repo": "dvta",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hacking Playgrounds"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DevSkim",
-          "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T15:47:08Z",
-            "owner": "microsoft",
-            "repo": "DevSkim",
-            "stars": 1002
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Security Code Scan",
-          "description": "Vulnerability Patterns Detector for C# and VB.NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-07-08T14:28:26Z",
-            "owner": "security-code-scan",
-            "repo": "security-code-scan",
-            "stars": 975
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SonarQube",
-          "description": "SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T00:22:29Z",
-            "owner": "SonarSource",
-            "repo": "sonar-dotnet",
-            "stars": 919
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Puma Scan",
-          "description": "Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-07T16:45:58Z",
-            "owner": "pumasecurity",
-            "repo": "puma-scan",
-            "stars": 447
-          }
-        }
-      ],
-      "title": "Static Code Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Snyk",
-          "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:21:25Z",
-            "owner": "snyk",
-            "repo": "cli",
-            "stars": 5641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ".NET Security Announcements",
-          "description": "Watch this repo to receive security announcements in .NET Core",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-29T17:39:04Z",
-            "owner": "dotnet",
-            "repo": "announcements",
-            "stars": 1372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RetireNET",
-          "description": "CLI extension to check your project for known vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2021-11-26T12:52:30Z",
-            "owner": "RetireNet",
-            "repo": "dotnet-retire",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OWASP Dependency Check",
-          "description": "Detects publicly disclosed vulnerabilities in application dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2025-09-27T20:17:48Z",
-            "owner": "jeremylong",
-            "repo": "DependencyCheck",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Audit.NET",
-          "description": "Identify known vulnerabilities in .net NuGet dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-09-04T18:04:56Z",
-            "owner": "sonatype-nexus-community",
-            "repo": "audit.net",
-            "stars": 54
-          }
-        }
-      ],
-      "title": "Vulnerabilities and Security Advisories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Most Vulnerable .NET App",
-          "description": "A GitHub repository featuring an application with over 50 interactive security vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-06T17:02:35Z",
-            "owner": "AlexGoOn",
-            "repo": "the-most-vulnerable-dotnet-app",
-            "stars": 492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebGoat.NET",
-          "description": "OWASP WebGoat.NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-12-16T18:02:14Z",
-            "owner": "jerryhoff",
-            "repo": "WebGoat.NET",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Damn Vulnerable Thick Client App",
-          "description": "DVTA is a Vulnerable Thick Client Application developed in C# .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-21T19:38:57Z",
-            "owner": "secvulture",
-            "repo": "dvta",
-            "stars": 157
-          }
-        }
-      ],
-      "title": "Hacking Playgrounds"
-    },
-    {
-      "description": "Found an awesome project, package, article, or another type of resources related to .NET Security? Submit a pull request! Just follow the guidelines. Thank you!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:31:17.742Z",
+    "last_updated": "2026-08-19T12:24:20.763Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
+    "original_repository_id": 168680524,
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
     "enhanced_repository": "enhansome/enhansome-dotnet-security",
     "enhanced_repository_description": null,
