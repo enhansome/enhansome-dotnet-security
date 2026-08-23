@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,866 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,158 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Libraries
 
-* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,173 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,172 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
 * [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,194 | 🐛 10 | 🌐 C# | 📅 2026-08-12 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 16 | 🌐 C# | 📅 2026-08-19 - Cleans HTML to avoid XSS attacks.
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐ 855 | 🐛 3 | 🌐 C# | 📅 2026-07-22 - Small package to allow adding security headers to ASP.NET Core websites.
@@ -41,8 +41,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,642 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-21 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
-* [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,372 | 🐛 399 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,643 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-21 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,374 | 🐛 399 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
   * [NuGet tool package](https://www.nuget.org/packages/DependencyCheck.Runner.Tool/) - Nuget tool package for OWASP Dependency Check
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playgrounds
 
-* [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) ⭐ 492 | 🐛 0 | 🌐 HTML | 📅 2026-03-06 - A GitHub repository featuring an application with over 50 interactive security vulnerabilities.
+* [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) ⭐ 493 | 🐛 0 | 🌐 HTML | 📅 2026-03-06 - A GitHub repository featuring an application with over 50 interactive security vulnerabilities.
 * [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET) ⭐ 257 | 🐛 16 | 🌐 C# | 📅 2023-12-16 - OWASP WebGoat.NET
 * [Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-21 - DVTA is a Vulnerable Thick Client Application developed in C# .NET
 * [ASP.NET Vulnerable Site](http://aspnet.testsparker.com) - Online .NET application that can be used to practice hacking.
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

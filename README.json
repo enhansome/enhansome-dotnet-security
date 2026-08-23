@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-26T11:58:58Z",
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3173
+                "stars": 3172
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2026-08-21T21:16:31Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5642
+                "stars": 5643
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2022-06-29T17:39:04Z",
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1372
+                "stars": 1374
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-03-06T17:02:35Z",
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:18:47.160Z",
+    "last_updated": "2026-08-23T14:20:35.573Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
     "original_repository_id": 168680524,
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
