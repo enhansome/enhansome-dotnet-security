@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 10942116,
                 "language": "C#",
-                "last_commit": "2026-08-19T15:02:59Z",
+                "last_commit": "2026-08-24T13:46:33Z",
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
                 "stars": 1707
@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 5582516,
                 "language": "C#",
-                "last_commit": "2026-08-22T00:22:54Z",
+                "last_commit": "2026-08-24T13:56:50Z",
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 919
@@ -193,10 +193,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T21:16:31Z",
+                "last_commit": "2026-08-24T10:20:05Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5643
+                "stars": 5644
               }
             },
             {
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:20:35.573Z",
+    "last_updated": "2026-08-24T14:23:29.201Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
     "original_repository_id": 168680524,
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
