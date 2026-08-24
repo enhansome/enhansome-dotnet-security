@@ -193,7 +193,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:20:05Z",
+                "last_commit": "2026-08-24T14:45:45Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5644
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:29.201Z",
+    "last_updated": "2026-08-24T14:49:48.607Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
     "original_repository_id": 168680524,
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
