@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 5582516,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:56:50Z",
+                "last_commit": "2026-08-25T00:23:01Z",
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 919
@@ -193,10 +193,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:45:45Z",
+                "last_commit": "2026-08-24T19:45:13Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5644
+                "stars": 5646
               }
             },
             {
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:48.607Z",
+    "last_updated": "2026-08-25T06:14:57.651Z",
     "original_repository": "guardrailsio/awesome-dotnet-security",
     "original_repository_id": 168680524,
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
