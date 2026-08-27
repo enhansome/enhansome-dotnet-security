@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 10942116,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:37:15Z",
+                "last_commit": "2026-08-27T14:33:01Z",
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
                 "stars": 1707
@@ -193,7 +193,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:12:26Z",
+                "last_commit": "2026-08-27T17:38:27Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5650
@@ -321,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:13.373Z",
+    "last_updated": "2026-08-27T23:35:17.334Z",
     "original_repository_info": {
       "archived": false,
       "id": 168680524,
