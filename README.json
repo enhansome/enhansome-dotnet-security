@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 10942116,
                 "language": "C#",
-                "last_commit": "2026-08-25T09:17:16Z",
+                "last_commit": "2026-08-27T11:37:15Z",
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
                 "stars": 1707
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 64857273,
                 "language": "C#",
-                "last_commit": "2026-08-16T15:47:08Z",
+                "last_commit": "2026-08-26T18:25:18Z",
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1004
@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 5582516,
                 "language": "C#",
-                "last_commit": "2026-08-26T08:29:22Z",
+                "last_commit": "2026-08-27T01:56:30Z",
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 919
@@ -193,10 +193,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:15:46Z",
+                "last_commit": "2026-08-27T11:12:26Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5648
+                "stars": 5650
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2022-06-29T17:39:04Z",
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1374
+                "stars": 1375
               }
             },
             {
@@ -321,9 +321,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:41:40.730Z",
-    "original_repository": "guardrailsio/awesome-dotnet-security",
-    "original_repository_id": 168680524,
+    "last_updated": "2026-08-27T11:38:13.373Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 168680524,
+      "language": null,
+      "last_commit": "2026-02-27T05:35:57Z",
+      "owner": "guardrailsio",
+      "repo": "awesome-dotnet-security",
+      "stars": 534
+    },
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
     "enhanced_repository": "enhansome/enhansome-dotnet-security",
     "enhanced_repository_description": null,
