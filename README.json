@@ -17,8 +17,9 @@
                 "last_commit": "2024-07-26T11:58:58Z",
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3172
-              }
+                "stars": 3171
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
                 "stars": 2194
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 10942116,
                 "language": "C#",
-                "last_commit": "2026-08-27T14:33:01Z",
+                "last_commit": "2026-08-28T16:12:04Z",
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
                 "stars": 1707
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
                 "stars": 855
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "NWebsec",
                 "repo": "NWebsec",
                 "stars": 550
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "juunas11",
                 "repo": "aspnetcore-security-headers",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             }
           ],
           "description": null,
@@ -130,7 +137,8 @@
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1004
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -144,8 +152,9 @@
                 "last_commit": "2024-07-08T14:28:26Z",
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 975
-              }
+                "stars": 976
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -156,11 +165,12 @@
                 "archived": false,
                 "id": 5582516,
                 "language": "C#",
-                "last_commit": "2026-08-27T01:56:30Z",
+                "last_commit": "2026-08-28T12:25:33Z",
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 919
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "pumasecurity",
                 "repo": "puma-scan",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             }
           ],
           "description": null,
@@ -193,11 +204,12 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:38:27Z",
+                "last_commit": "2026-08-28T19:11:32Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5650
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "dotnet",
                 "repo": "announcements",
                 "stars": 1375
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "RetireNet",
                 "repo": "dotnet-retire",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -241,8 +255,9 @@
                 "last_commit": "2025-09-27T20:17:48Z",
                 "owner": "jeremylong",
                 "repo": "DependencyCheck",
-                "stars": 54
-              }
+                "stars": 55
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "sonatype-nexus-community",
                 "repo": "audit.net",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "jerryhoff",
                 "repo": "WebGoat.NET",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "secvulture",
                 "repo": "dvta",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T23:23:34.612Z"
             }
           ],
           "description": null,
@@ -321,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:35:17.334Z",
+    "last_updated": "2026-08-28T23:23:34.612Z",
     "original_repository_info": {
       "archived": false,
       "id": 168680524,
