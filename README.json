@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3171,
+                "stars": 3170,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:30.311Z",
+    "last_updated": "2026-08-29T17:30:07.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",

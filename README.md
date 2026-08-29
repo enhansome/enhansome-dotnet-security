@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,078 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Libraries
 
-* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,171 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,170 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
 * [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,194 | 🐛 10 | 🌐 C# | 📅 2026-08-12 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 15 | 🌐 C# | 📅 2026-08-28 - Cleans HTML to avoid XSS attacks.
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐ 855 | 🐛 3 | 🌐 C# | 📅 2026-07-22 - Small package to allow adding security headers to ASP.NET Core websites.
