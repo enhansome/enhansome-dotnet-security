@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASP.NET Core rate limiting middleware",
+                "homepage": null,
                 "id": 63812838,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-07-26T11:58:58Z",
+                "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3171
+                "stars": 3171,
+                "topics": [
+                  "asp-net-core",
+                  "middleware",
+                  "rate-limiting"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -28,12 +37,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jwt.Net, a JWT (JSON Web Token) implementation for .NET",
+                "homepage": null,
                 "id": 1921154,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T01:29:57Z",
+                "open_issues": 10,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
-                "stars": 2194
+                "stars": 2194,
+                "topics": [
+                  "authorization",
+                  "c-sharp",
+                  "json",
+                  "jwt"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -44,12 +63,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cleans HTML to avoid XSS attacks",
+                "homepage": null,
                 "id": 10942116,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:12:04Z",
+                "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1707
+                "stars": 1707,
+                "topics": [
+                  "html",
+                  "sanitizer",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -60,12 +88,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small package to allow adding security headers to ASP.NET Core websites",
+                "homepage": null,
                 "id": 59352868,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-22T20:45:15Z",
+                "open_issues": 3,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 855
+                "stars": 855,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -76,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security libraries for ASP.NET",
+                "homepage": "https://www.nwebsec.com",
                 "id": 29354498,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-03-03T06:09:18Z",
+                "open_issues": 48,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 550
+                "stars": 550,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -92,12 +132,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very simple SAML 2.0 consumer module for ASP.NET/C#",
+                "homepage": "https://www.jitbit.com",
                 "id": 75106013,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T22:51:02Z",
+                "open_issues": 4,
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "asp-net",
+                  "asp-net-core",
+                  "asp-net-mvc",
+                  "aspnetcore",
+                  "dotnet",
+                  "saml",
+                  "saml-service-provider",
+                  "saml2",
+                  "single-sign-on",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -108,12 +164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware for adding security headers to an ASP.NET Core application.",
+                "homepage": null,
                 "id": 79739234,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-03-27T15:19:33Z",
+                "open_issues": 37,
                 "owner": "juunas11",
                 "repo": "aspnetcore-security-headers",
-                "stars": 276
+                "stars": 276,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             }
@@ -131,12 +192,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DevSkim is a set of IDE plugins, language analyzers, and rules that provide security \"linting\" capabilities.",
+                "homepage": null,
                 "id": 64857273,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:25:18Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1004
+                "stars": 1004,
+                "topics": [
+                  "linter",
+                  "sdl",
+                  "security",
+                  "visual-studio-code-extension",
+                  "visual-studio-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -147,12 +219,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulnerability Patterns Detector for C# and VB.NET",
+                "homepage": "https://security-code-scan.github.io",
                 "id": 115854787,
                 "language": "C#",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-07-08T14:28:26Z",
+                "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 976
+                "stars": 976,
+                "topics": [
+                  "analysis",
+                  "analyzer",
+                  "code",
+                  "dotnet",
+                  "owasp",
+                  "roslyn",
+                  "scan",
+                  "scanner",
+                  "security",
+                  "static",
+                  "static-analysis",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -163,12 +253,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code analyzer for C# and VB.NET projects",
+                "homepage": "https://redirect.sonarsource.com/plugins/csharp.html",
                 "id": 5582516,
                 "language": "C#",
-                "last_commit": "2026-08-28T12:25:33Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:47:25Z",
+                "open_issues": 251,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "c-sharp",
+                  "code-quality",
+                  "roslyn",
+                  "sonarqube",
+                  "static-analysis",
+                  "static-analyzer",
+                  "static-code-analysis",
+                  "visual-basic"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -179,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Puma Scan is a software security Visual Studio extension that provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, preventing security bugs from entering your applications.",
+                "homepage": "https://www.pumascan.com",
                 "id": 71406410,
                 "language": "C#",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-07T16:45:58Z",
+                "open_issues": 24,
                 "owner": "pumasecurity",
                 "repo": "puma-scan",
-                "stars": 447
+                "stars": 447,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             }
@@ -202,12 +311,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+                "homepage": "https://snyk.io",
                 "id": 45247496,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:11:32Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5650
+                "stars": 5651,
+                "topics": [
+                  "monitor",
+                  "security",
+                  "snyk",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -218,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Subscribe to this repo to be notified of Announcements and changes in .NET Core. ",
+                "homepage": null,
                 "id": 85252569,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-06-29T17:39:04Z",
+                "open_issues": 399,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1375
+                "stars": 1375,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -234,12 +358,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open source vulnerability scanner for .NET Core projects",
+                "homepage": null,
                 "id": 91344450,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-11-26T12:52:30Z",
+                "open_issues": 1,
                 "owner": "RetireNet",
                 "repo": "dotnet-retire",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "aspnetcore",
+                  "audit",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "runtime",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -250,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The dependency-check repository has moved:",
+                "homepage": "http://github.com/dependency-check/DependencyCheck",
                 "id": 917205905,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-27T20:17:48Z",
+                "open_issues": 1,
                 "owner": "jeremylong",
                 "repo": "DependencyCheck",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -266,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Identify known vulnerabilities in .net nuget dependencies",
+                "homepage": null,
                 "id": 45506227,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-09-04T18:04:56Z",
+                "open_issues": 16,
                 "owner": "sonatype-nexus-community",
                 "repo": "audit.net",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             }
@@ -289,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This educational repository showcases the most common vulnerabilities found in .NET applications",
+                "homepage": null,
                 "id": 1163210197,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-03-06T17:02:35Z",
+                "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -305,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP WebGoat.NET",
+                "homepage": null,
                 "id": 2610335,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-12-16T18:02:14Z",
+                "open_issues": 16,
                 "owner": "jerryhoff",
                 "repo": "WebGoat.NET",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             },
@@ -321,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Vulnerable Thick Client App",
+                "homepage": null,
                 "id": 64048991,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-06-21T19:38:57Z",
+                "open_issues": 0,
                 "owner": "secvulture",
                 "repo": "dvta",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
             }
@@ -340,15 +501,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:23:34.612Z",
+    "last_updated": "2026-08-29T04:42:30.311Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome .NET Security Resources",
+      "homepage": null,
       "id": 168680524,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-27T05:35:57Z",
+      "open_issues": 1,
       "owner": "guardrailsio",
       "repo": "awesome-dotnet-security",
-      "stars": 534
+      "stars": 534,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotnet",
+        "dotnet-core",
+        "dotnet-framework",
+        "security",
+        "security-testing",
+        "security-tools",
+        "static-analysis"
+      ]
     },
     "original_repository_sha": "98be66b9b20071dd1c3fc83cd3649d3be7b301ba",
     "enhanced_repository": "enhansome/enhansome-dotnet-security",
