@@ -262,7 +262,7 @@
                 "open_issues": 251,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 919,
+                "stars": 918,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:30:07.832Z",
+    "last_updated": "2026-08-30T17:54:38.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
@@ -513,7 +513,7 @@
       "open_issues": 1,
       "owner": "guardrailsio",
       "repo": "awesome-dotnet-security",
-      "stars": 534,
+      "stars": 536,
       "topics": [
         "awesome",
         "awesome-list",

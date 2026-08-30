@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,078 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,381 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -35,7 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,004 | 🐛 75 | 🌐 C# | 📅 2026-08-26 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
 * [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ⭐ 976 | 🐛 52 | 🌐 C# | 📅 2024-07-08 - Vulnerability Patterns Detector for C# and VB.NET.
-* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 919 | 🐛 251 | 🌐 C# | 📅 2026-08-29 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
+* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 918 | 🐛 251 | 🌐 C# | 📅 2026-08-29 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) ⭐ 447 | 🐛 24 | 🌐 C# | 📅 2026-08-07 - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
 * [GuardRails](https://www.guardrails.io) - Continuous verification platform that integrates tightly with leading version control systems.
 
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
