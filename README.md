@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,381 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,683 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Libraries
 
-* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,170 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,169 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
 * [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,194 | 🐛 10 | 🌐 C# | 📅 2026-08-12 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 15 | 🌐 C# | 📅 2026-08-28 - Cleans HTML to avoid XSS attacks.
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐ 855 | 🐛 3 | 🌐 C# | 📅 2026-07-22 - Small package to allow adding security headers to ASP.NET Core websites.
@@ -35,14 +35,14 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,004 | 🐛 75 | 🌐 C# | 📅 2026-08-26 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
 * [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ⭐ 976 | 🐛 52 | 🌐 C# | 📅 2024-07-08 - Vulnerability Patterns Detector for C# and VB.NET.
-* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 918 | 🐛 251 | 🌐 C# | 📅 2026-08-29 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
+* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 918 | 🐛 249 | 🌐 C# | 📅 2026-08-29 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) ⭐ 447 | 🐛 24 | 🌐 C# | 📅 2026-08-07 - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
 * [GuardRails](https://www.guardrails.io) - Continuous verification platform that integrates tightly with leading version control systems.
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,651 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-28 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
-* [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,375 | 🐛 399 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,652 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-31 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,376 | 🐛 399 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
   * [NuGet tool package](https://www.nuget.org/packages/DependencyCheck.Runner.Tool/) - Nuget tool package for OWASP Dependency Check
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
