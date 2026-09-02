@@ -258,11 +258,11 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T13:41:43Z",
-                "open_issues": 249,
+                "last_commit": "2026-09-02T00:52:59Z",
+                "open_issues": 248,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,8 +316,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T15:30:47Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-02T16:23:33Z",
+                "open_issues": 134,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5654,
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 510,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:36:02.202Z",
+    "last_updated": "2026-09-02T17:35:45.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
