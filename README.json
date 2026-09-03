@@ -42,8 +42,8 @@
                 "id": 1921154,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-12T01:29:57Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-03T16:24:10Z",
+                "open_issues": 11,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
                 "stars": 2192,
@@ -97,7 +97,7 @@
                 "open_issues": 3,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 855,
+                "stars": 856,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -197,8 +197,8 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-26T18:25:18Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-03T00:14:29Z",
+                "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1004,
@@ -258,8 +258,8 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T00:52:59Z",
-                "open_issues": 248,
+                "last_commit": "2026-09-03T00:53:56Z",
+                "open_issues": 249,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 918,
@@ -316,8 +316,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T16:23:33Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-03T17:14:46Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5654,
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 517,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:35:45.268Z",
+    "last_updated": "2026-09-03T17:31:11.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
