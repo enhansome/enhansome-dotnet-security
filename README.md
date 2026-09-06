@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,237 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,558 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -33,7 +33,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,004 | 🐛 76 | 🌐 C# | 📅 2026-09-03 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
+* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,005 | 🐛 76 | 🌐 C# | 📅 2026-09-03 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
 * [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ⭐ 974 | 🐛 52 | 🌐 C# | 📅 2024-07-08 - Vulnerability Patterns Detector for C# and VB.NET.
 * [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 918 | 🐛 249 | 🌐 C# | 📅 2026-09-05 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) ⭐ 447 | 🐛 24 | 🌐 C# | 📅 2026-08-07 - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playgrounds
 
-* [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) ⭐ 523 | 🐛 0 | 🌐 HTML | 📅 2026-03-06 - A GitHub repository featuring an application with over 50 interactive security vulnerabilities.
+* [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) ⭐ 524 | 🐛 0 | 🌐 HTML | 📅 2026-03-06 - A GitHub repository featuring an application with over 50 interactive security vulnerabilities.
 * [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET) ⭐ 257 | 🐛 16 | 🌐 C# | 📅 2023-12-16 - OWASP WebGoat.NET
 * [Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-21 - DVTA is a Vulnerable Thick Client Application developed in C# .NET
 * [ASP.NET Vulnerable Site](http://aspnet.testsparker.com) - Online .NET application that can be used to practice hacking.
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

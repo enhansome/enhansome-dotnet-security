@@ -201,7 +201,7 @@
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": [
                   "linter",
                   "sdl",
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:32:00.380Z",
+    "last_updated": "2026-09-06T16:41:58.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
