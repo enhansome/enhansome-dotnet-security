@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,558 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,926 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -24,8 +24,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Libraries
 
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,167 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
-* [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,192 | 🐛 10 | 🌐 C# | 📅 2026-09-03 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
-* [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 16 | 🌐 C# | 📅 2026-09-04 - Cleans HTML to avoid XSS attacks.
+* [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,191 | 🐛 10 | 🌐 C# | 📅 2026-09-03 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+* [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 17 | 🌐 C# | 📅 2026-09-07 - Cleans HTML to avoid XSS attacks.
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐ 856 | 🐛 3 | 🌐 C# | 📅 2026-07-22 - Small package to allow adding security headers to ASP.NET Core websites.
 * [NWebsec](https://github.com/NWebsec/NWebsec) ⭐ 550 | 🐛 48 | 🌐 C# | 📅 2023-03-03 - Security libraries for ASP.NET.
 * [AspNetSaml](https://github.com/jitbit/AspNetSaml) ⭐ 421 | 🐛 4 | 🌐 C# | 📅 2026-08-20 - SAML client library, allows adding SAML single-sign-on to your ASP.NET app.
@@ -41,7 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,655 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-05 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,655 | 🐛 132 | 🌐 TypeScript | 📅 2026-09-07 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
 * [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,376 | 🐛 399 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
