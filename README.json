@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3167,
+                "stars": 3168,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -258,8 +258,8 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:50:32Z",
-                "open_issues": 249,
+                "last_commit": "2026-09-08T14:33:02Z",
+                "open_issues": 250,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 918,
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T16:27:42Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-08T17:22:10Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5655,
+                "stars": 5656,
                 "topics": [
                   "monitor",
                   "security",
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 524,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:35:37.995Z",
+    "last_updated": "2026-09-08T17:45:05.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
