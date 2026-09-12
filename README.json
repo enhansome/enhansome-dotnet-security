@@ -46,7 +46,7 @@
                 "open_issues": 10,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
-                "stars": 2191,
+                "stars": 2190,
                 "topics": [
                   "authorization",
                   "c-sharp",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:30:29.469Z",
+    "last_updated": "2026-09-12T16:44:57.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
