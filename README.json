@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3167,
+                "stars": 3166,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -316,8 +316,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T13:14:10Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-13T12:28:56Z",
+                "open_issues": 137,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5661,
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:44:57.705Z",
+    "last_updated": "2026-09-13T17:15:46.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
