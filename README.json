@@ -42,7 +42,7 @@
                 "id": 1921154,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T01:44:17Z",
+                "last_commit": "2026-09-15T00:44:17Z",
                 "open_issues": 10,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
@@ -120,7 +120,7 @@
                 "open_issues": 48,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 550,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -141,7 +141,7 @@
                 "open_issues": 4,
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -197,7 +197,7 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-14T16:49:16Z",
+                "last_commit": "2026-09-14T22:42:51Z",
                 "open_issues": 79,
                 "owner": "microsoft",
                 "repo": "DevSkim",
@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T06:54:22Z",
+                "last_commit": "2026-09-15T15:25:35Z",
                 "open_issues": 249,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,8 +316,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T16:41:07Z",
-                "open_issues": 138,
+                "last_commit": "2026-09-15T16:37:02Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5663,
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:01:20.111Z",
+    "last_updated": "2026-09-15T17:55:42.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
