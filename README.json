@@ -72,7 +72,7 @@
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1707,
+                "stars": 1708,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -201,7 +201,7 @@
                 "open_issues": 78,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "linter",
                   "sdl",
@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T12:32:11Z",
+                "last_commit": "2026-09-29T00:56:40Z",
                 "open_issues": 251,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T18:14:40Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-29T18:39:09Z",
+                "open_issues": 122,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5668,
+                "stars": 5669,
                 "topics": [
                   "monitor",
                   "security",
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 526,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:22:35.564Z",
+    "last_updated": "2026-09-29T19:06:29.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
