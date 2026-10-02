@@ -46,7 +46,7 @@
                 "open_issues": 10,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
-                "stars": 2190,
+                "stars": 2188,
                 "topics": [
                   "authorization",
                   "c-sharp",
@@ -120,7 +120,7 @@
                 "open_issues": 48,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 551,
+                "stars": 549,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -141,7 +141,7 @@
                 "open_issues": 4,
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
-                "stars": 420,
+                "stars": 418,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -197,8 +197,8 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:13:27Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-02T10:35:40Z",
+                "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1008,
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 972,
+                "stars": 973,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,8 +258,8 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T01:04:55Z",
-                "open_issues": 252,
+                "last_commit": "2026-10-02T00:55:55Z",
+                "open_issues": 253,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 920,
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T19:15:12Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-02T17:34:35Z",
+                "open_issues": 123,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5669,
+                "stars": 5670,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:16:15.969Z",
+    "last_updated": "2026-10-02T18:57:59.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
