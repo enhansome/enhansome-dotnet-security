@@ -46,7 +46,7 @@
                 "open_issues": 10,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
-                "stars": 2188,
+                "stars": 2187,
                 "topics": [
                   "authorization",
                   "c-sharp",
@@ -97,7 +97,7 @@
                 "open_issues": 3,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 855,
+                "stars": 854,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 973,
+                "stars": 972,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -262,7 +262,7 @@
                 "open_issues": 259,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 919,
+                "stars": 920,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:05:33Z",
-                "open_issues": 124,
+                "last_commit": "2026-10-05T17:39:48Z",
+                "open_issues": 125,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5671,
+                "stars": 5670,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:58:14.020Z",
+    "last_updated": "2026-10-05T21:29:44.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
