@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,353 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,566 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -41,7 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,670 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-06 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,669 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-06 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
 * [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,374 | 🐛 406 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.

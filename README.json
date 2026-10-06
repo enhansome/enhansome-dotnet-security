@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:11:11Z",
+                "last_commit": "2026-10-06T17:38:31Z",
                 "open_issues": 125,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5670,
+                "stars": 5669,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:19.079Z",
+    "last_updated": "2026-10-06T19:18:03.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
