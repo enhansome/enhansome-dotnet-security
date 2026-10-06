@@ -72,7 +72,7 @@
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1710,
+                "stars": 1709,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:52:49Z",
+                "last_commit": "2026-10-06T00:55:47Z",
                 "open_issues": 259,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,7 +316,7 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T17:39:48Z",
+                "last_commit": "2026-10-06T10:11:11Z",
                 "open_issues": 125,
                 "owner": "snyk",
                 "repo": "cli",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:29:44.093Z",
+    "last_updated": "2026-10-06T10:13:19.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
