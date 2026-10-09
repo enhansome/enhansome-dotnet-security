@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3165,
+                "stars": 3164,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -197,11 +197,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T21:44:21Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-09T00:11:58Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1010,
+                "stars": 1011,
                 "topics": [
                   "linter",
                   "sdl",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 972,
+                "stars": 971,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,11 +258,11 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T00:55:47Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-09T00:59:13Z",
+                "open_issues": 259,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 920,
+                "stars": 919,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T19:08:20Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-09T15:33:48Z",
+                "open_issues": 125,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5671,
+                "stars": 5672,
                 "topics": [
                   "monitor",
                   "security",
@@ -346,7 +346,7 @@
                 "open_issues": 406,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:39:41.597Z",
+    "last_updated": "2026-10-09T19:15:13.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
