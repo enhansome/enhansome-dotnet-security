@@ -201,7 +201,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1011,
+                "stars": 1012,
                 "topics": [
                   "linter",
                   "sdl",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T00:59:32Z",
+                "last_commit": "2026-10-13T01:00:02Z",
                 "open_issues": 260,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T16:42:45Z",
+                "last_commit": "2026-10-13T18:21:57Z",
                 "open_issues": 121,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5676,
+                "stars": 5678,
                 "topics": [
                   "monitor",
                   "security",
@@ -343,10 +343,10 @@
                 "language": null,
                 "license": "CC-BY-4.0",
                 "last_commit": "2022-06-29T17:39:04Z",
-                "open_issues": 406,
+                "open_issues": 453,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1374,
+                "stars": 1372,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -395,7 +395,7 @@
                 "open_issues": 1,
                 "owner": "jeremylong",
                 "repo": "DependencyCheck",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:58:03.907Z",
+    "last_updated": "2026-10-13T20:04:41.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
