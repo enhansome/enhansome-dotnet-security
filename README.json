@@ -68,7 +68,7 @@
                 "id": 10942116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-15T09:16:16Z",
+                "last_commit": "2026-10-16T14:12:56Z",
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 972,
+                "stars": 971,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,11 +258,11 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T00:47:28Z",
+                "last_commit": "2026-10-16T00:47:20Z",
                 "open_issues": 261,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T17:07:09Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-16T15:35:10Z",
+                "open_issues": 119,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5679,
+                "stars": 5680,
                 "topics": [
                   "monitor",
                   "security",
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 529,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:00:34.730Z",
+    "last_updated": "2026-10-16T17:48:11.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
