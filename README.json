@@ -201,7 +201,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "linter",
                   "sdl",
@@ -320,7 +320,7 @@
                 "open_issues": 119,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5680,
+                "stars": 5682,
                 "topics": [
                   "monitor",
                   "security",
@@ -346,7 +346,7 @@
                 "open_issues": 453,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:50:04.138Z",
+    "last_updated": "2026-10-18T17:04:07.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
