@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3164,
+                "stars": 3165,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -72,7 +72,7 @@
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1709,
+                "stars": 1710,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -137,7 +137,7 @@
                 "id": 75106013,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T22:51:02Z",
+                "last_commit": "2026-10-19T09:35:40Z",
                 "open_issues": 4,
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T15:35:10Z",
-                "open_issues": 119,
+                "last_commit": "2026-10-19T18:59:46Z",
+                "open_issues": 120,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5682,
+                "stars": 5684,
                 "topics": [
                   "monitor",
                   "security",
@@ -346,7 +346,7 @@
                 "open_issues": 453,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:04:07.531Z",
+    "last_updated": "2026-10-19T19:39:04.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
