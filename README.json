@@ -72,7 +72,7 @@
                 "open_issues": 19,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1710,
+                "stars": 1711,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -120,7 +120,7 @@
                 "open_issues": 47,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 549,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -173,7 +173,7 @@
                 "open_issues": 37,
                 "owner": "juunas11",
                 "repo": "aspnetcore-security-headers",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -198,10 +198,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T00:11:58Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "linter",
                   "sdl",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,8 +258,8 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T00:47:54Z",
-                "open_issues": 261,
+                "last_commit": "2026-10-27T00:49:55Z",
+                "open_issues": 254,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 921,
@@ -292,7 +292,7 @@
                 "open_issues": 24,
                 "owner": "pumasecurity",
                 "repo": "puma-scan",
-                "stars": 445,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T18:38:38Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-27T17:14:09Z",
+                "open_issues": 131,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5689,
+                "stars": 5688,
                 "topics": [
                   "monitor",
                   "security",
@@ -346,7 +346,7 @@
                 "open_issues": 458,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1398,
+                "stars": 1399,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:44:30.746Z",
+    "last_updated": "2026-10-27T19:13:04.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
