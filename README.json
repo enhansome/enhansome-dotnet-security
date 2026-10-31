@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T00:38:52Z",
+                "last_commit": "2026-10-31T00:32:00Z",
                 "open_issues": 260,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T17:12:59Z",
+                "last_commit": "2026-10-30T22:19:35Z",
                 "open_issues": 132,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5693,
+                "stars": 5692,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:59:01.336Z",
+    "last_updated": "2026-10-31T18:09:49.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
