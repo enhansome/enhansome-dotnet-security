@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3167,
+                "stars": 3166,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -68,7 +68,7 @@
                 "id": 10942116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T10:32:27Z",
+                "last_commit": "2026-11-02T15:07:25Z",
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 973,
+                "stars": 974,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -262,7 +262,7 @@
                 "open_issues": 260,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 922,
+                "stars": 923,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T22:19:35Z",
-                "open_issues": 132,
+                "last_commit": "2026-11-02T21:32:48Z",
+                "open_issues": 136,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5693,
+                "stars": 5694,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:44:29.072Z",
+    "last_updated": "2026-11-02T22:35:20.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
