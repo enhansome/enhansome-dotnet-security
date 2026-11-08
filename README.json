@@ -72,7 +72,7 @@
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -320,7 +320,7 @@
                 "open_issues": 141,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5701,
+                "stars": 5702,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:28:00.991Z",
+    "last_updated": "2026-11-08T18:38:48.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
