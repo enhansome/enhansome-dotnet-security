@@ -68,11 +68,11 @@
                 "id": 10942116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T10:12:21Z",
+                "last_commit": "2026-11-12T12:46:54Z",
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1715,
+                "stars": 1716,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -197,7 +197,7 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T01:59:01Z",
+                "last_commit": "2026-11-12T17:55:13Z",
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "DevSkim",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 974,
+                "stars": 975,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,7 +258,7 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T10:08:24Z",
+                "last_commit": "2026-11-12T00:33:42Z",
                 "open_issues": 261,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T18:34:33Z",
+                "last_commit": "2026-11-12T18:31:50Z",
                 "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5709,
+                "stars": 5710,
                 "topics": [
                   "monitor",
                   "security",
@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 532,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:03:14.246Z",
+    "last_updated": "2026-11-12T21:18:01.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
