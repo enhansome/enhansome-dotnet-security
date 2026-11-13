@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,891 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,391 | 🐛 104 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -34,14 +34,14 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Static Code Analysis
 
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,017 | 🐛 69 | 🌐 C# | 📅 2026-11-12 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
-* [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ⭐ 975 | 🐛 52 | 🌐 C# | 📅 2024-07-08 - Vulnerability Patterns Detector for C# and VB.NET.
-* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 923 | 🐛 261 | 🌐 C# | 📅 2026-11-12 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
+* [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ⭐ 976 | 🐛 52 | 🌐 C# | 📅 2024-07-08 - Vulnerability Patterns Detector for C# and VB.NET.
+* [SonarQube](https://github.com/SonarSource/sonar-dotnet) ⭐ 924 | 🐛 261 | 🌐 C# | 📅 2026-11-13 - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) ⭐ 446 | 🐛 24 | 🌐 C# | 📅 2026-08-07 - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
 * [GuardRails](https://www.guardrails.io) - Continuous verification platform that integrates tightly with leading version control systems.
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,710 | 🐛 135 | 🌐 TypeScript | 📅 2026-11-12 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,710 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-13 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
 * [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,401 | 🐛 468 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
