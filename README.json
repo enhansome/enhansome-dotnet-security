@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -120,7 +120,7 @@
                 "open_issues": 47,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 551,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -201,7 +201,7 @@
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "linter",
                   "sdl",
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 976,
+                "stars": 977,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -292,7 +292,7 @@
                 "open_issues": 24,
                 "owner": "pumasecurity",
                 "repo": "puma-scan",
-                "stars": 446,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:56:35.817Z",
+    "last_updated": "2026-11-15T19:32:40.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
@@ -513,7 +513,7 @@
       "open_issues": 1,
       "owner": "guardrailsio",
       "repo": "awesome-dotnet-security",
-      "stars": 536,
+      "stars": 537,
       "topics": [
         "awesome",
         "awesome-list",
