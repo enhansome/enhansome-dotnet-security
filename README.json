@@ -42,8 +42,8 @@
                 "id": 1921154,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T19:50:59Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-16T22:01:38Z",
+                "open_issues": 12,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
                 "stars": 2186,
@@ -68,7 +68,7 @@
                 "id": 10942116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-12T12:46:54Z",
+                "last_commit": "2026-11-16T10:18:43Z",
                 "open_issues": 15,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
@@ -262,7 +262,7 @@
                 "open_issues": 261,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
-                "stars": 924,
+                "stars": 925,
                 "topics": [
                   "c-sharp",
                   "code-quality",
@@ -316,11 +316,11 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T02:36:24Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-16T15:56:26Z",
+                "open_issues": 132,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5710,
+                "stars": 5712,
                 "topics": [
                   "monitor",
                   "security",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:32:40.193Z",
+    "last_updated": "2026-11-16T23:11:39.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
