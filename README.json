@@ -21,7 +21,7 @@
                 "open_issues": 185,
                 "owner": "stefanprodan",
                 "repo": "AspNetCoreRateLimit",
-                "stars": 3167,
+                "stars": 3166,
                 "topics": [
                   "asp-net-core",
                   "middleware",
@@ -42,8 +42,8 @@
                 "id": 1921154,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T19:15:13Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T21:52:10Z",
+                "open_issues": 8,
                 "owner": "jwt-dotnet",
                 "repo": "jwt",
                 "stars": 2186,
@@ -68,11 +68,11 @@
                 "id": 10942116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-17T04:04:13Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-19T04:04:35Z",
+                "open_issues": 17,
                 "owner": "mganss",
                 "repo": "HtmlSanitizer",
-                "stars": 1716,
+                "stars": 1715,
                 "topics": [
                   "html",
                   "sanitizer",
@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.AspNetCore.SecurityHeaders",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -120,7 +120,7 @@
                 "open_issues": 47,
                 "owner": "NWebsec",
                 "repo": "NWebsec",
-                "stars": 552,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -228,7 +228,7 @@
                 "open_issues": 52,
                 "owner": "security-code-scan",
                 "repo": "security-code-scan",
-                "stars": 978,
+                "stars": 977,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -258,8 +258,8 @@
                 "id": 5582516,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T00:37:34Z",
-                "open_issues": 261,
+                "last_commit": "2026-11-19T00:33:23Z",
+                "open_issues": 257,
                 "owner": "SonarSource",
                 "repo": "sonar-dotnet",
                 "stars": 925,
@@ -292,7 +292,7 @@
                 "open_issues": 24,
                 "owner": "pumasecurity",
                 "repo": "puma-scan",
-                "stars": 447,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -316,8 +316,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T21:02:59Z",
-                "open_issues": 132,
+                "last_commit": "2026-11-19T21:40:52Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5713,
@@ -346,7 +346,7 @@
                 "open_issues": 468,
                 "owner": "dotnet",
                 "repo": "announcements",
-                "stars": 1401,
+                "stars": 1400,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:23:34.612Z"
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:42:01.899Z",
+    "last_updated": "2026-11-19T21:57:58.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome .NET Security Resources",
@@ -513,7 +513,7 @@
       "open_issues": 1,
       "owner": "guardrailsio",
       "repo": "awesome-dotnet-security",
-      "stars": 537,
+      "stars": 536,
       "topics": [
         "awesome",
         "awesome-list",
