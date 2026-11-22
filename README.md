@@ -5,7 +5,7 @@ A curated list of awesome .NET Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,467 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,028 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Libraries
 
-* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,165 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,164 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - Package that will let you set rate limits for your .NET Core Api.
 * [JWT .NET](https://github.com/jwt-dotnet/jwt) ⭐ 2,186 | 🐛 12 | 🌐 C# | 📅 2026-11-21 - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) ⭐ 1,715 | 🐛 17 | 🌐 C# | 📅 2026-11-19 - Cleans HTML to avoid XSS attacks.
 * [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐ 852 | 🐛 4 | 🌐 C# | 📅 2026-07-22 - Small package to allow adding security headers to ASP.NET Core websites.
@@ -41,7 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,716 | 🐛 137 | 🌐 TypeScript | 📅 2026-11-20 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,717 | 🐛 137 | 🌐 TypeScript | 📅 2026-11-20 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
 * [.NET Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) ⭐ 1,400 | 🐛 468 | 📅 2022-06-29 - Watch this repo to receive security announcements in .NET Core
 * [RetireNET](https://github.com/RetireNet/dotnet-retire) ⚠️ Archived - CLI extension to check your project for known vulnerabilities.
 * [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
@@ -89,4 +89,4 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
